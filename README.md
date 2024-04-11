@@ -1,6 +1,7 @@
 ### Olá, sou o Emilio👋
 
 Tenho 20 anos, estou cursando Ciência da Computação na USJT, no período noturno. Atualmente estou no 3º semestre
+
 Possuo conhecimento nas linguagens de programação Java e Python
 
 <!--
