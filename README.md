@@ -1,8 +1,9 @@
 ### Olá, sou o Emilio👋
 
-Tenho 22 anos, estou cursando Ciência da Computação na USJT, no período noturno. Atualmente estou no 5º semestre
+Tenho 21 anos, estou cursando Ciência da Computação na USJT, no período noturno. Atualmente estou no 6º semestre
+Pretendo me graduar no final de 2026
 
-Possuo conhecimento em Java, python, HTML
+Possuo conhecimento em Java, python, HTML, CSS, JavaScript
 <!--
 **oEmailou02/oEmailou02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
