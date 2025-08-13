@@ -4,11 +4,9 @@ Tenho 21 anos, estou cursando Ciência da Computação na USJT, no período notu
 Pretendo me graduar no final de 2026
 
 <div align="center">
-
- ![Emilio's github stats](https://github-readme-stats.vercel.app/api?username=oEmailou02&show_icons=true&theme=material-palenight)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/oEmailou02/github-readme-stats)
-
+  <a href="https://github.com/oEmailou02"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=oEmailou02&show_icons=true&theme=material-palenight"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/oEmailou02/github-readme-stats"/>
 </div>
  
  ## Skills
