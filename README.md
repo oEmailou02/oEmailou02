@@ -8,8 +8,8 @@ Pretendo me graduar no final de 2026
  ![Emilio's github stats](https://github-readme-stats.vercel.app/api?username=oEmailou02&show_icons=true&theme=material-palenight)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/oEmailou02/github-readme-stats)
- <br/>
- </div>
+
+</div>
  
  ## Skills
  ![html](https://img.shields.io/badge/HTML5-e74c3c?style=for-the-badge&logo=html5&logoColor=white)
