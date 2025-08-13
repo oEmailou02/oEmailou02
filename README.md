@@ -3,12 +3,10 @@
 Tenho 21 anos, estou cursando Ciência da Computação na USJT, no período noturno. Atualmente estou no 6º semestre
 Pretendo me graduar no final de 2026
 
-Possuo conhecimento em Java, python, HTML, CSS, JavaScript
-
 <div align="center">
 
  ![Emilio's github stats](https://github-readme-stats.vercel.app/api?username=oEmailou02&show_icons=true&theme=material-palenight)
- <br/>
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/oEmailou02/github-readme-stats)
  <br/>
  </div>
