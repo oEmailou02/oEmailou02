@@ -6,7 +6,7 @@ Pretendo me graduar no final de 2026
 <div align="center">
   <a href="https://github.com/oEmailou02"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=oEmailou02&show_icons=true&theme=material-palenight"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/oEmailou02/github-readme-stats"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight"/>
 </div>
  
  ## Skills
