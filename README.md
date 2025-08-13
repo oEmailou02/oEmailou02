@@ -5,11 +5,11 @@ Pretendo me graduar no final de 2026
 
 <div align="center">
   <a href="https://github.com/oEmailou02"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=oEmailou02&show_icons=true&theme=material-palenight"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oEmailou02&show_icons=true&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight"/>
 </div>
  
- ## Skills
+ ## Conhecimentos
  ![html](https://img.shields.io/badge/HTML5-e74c3c?style=for-the-badge&logo=html5&logoColor=white)
  ![css](https://img.shields.io/badge/CSS3-3498db?&style=for-the-badge&logo=css3&logoColor=white)
  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
