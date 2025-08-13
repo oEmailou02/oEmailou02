@@ -1,7 +1,10 @@
 ### Olá, sou o Emilio👋
 
-Tenho 21 anos, estou cursando Ciência da Computação na USJT, no período noturno. Atualmente estou no 6º semestre
-Pretendo me graduar no final de 2026
+- Tenho 21 anos
+- Curso Ciência da Computação na USJT, período noturno.
+- 6º semestre
+- Previsão de conclusão - final de 2026
+
 
 <div align="center">
   <a href="https://github.com/oEmailou02"/>
