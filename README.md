@@ -1,8 +1,8 @@
 ### Olá, sou o Emilio👋
 
-- Tenho 21 anos
+- Tenho 22 anos
 - Curso Ciência da Computação na USJT, período noturno.
-- 6º semestre
+- 7º semestre
 - Previsão de conclusão - final de 2026
 
 
