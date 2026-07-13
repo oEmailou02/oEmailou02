@@ -2,7 +2,7 @@
 
 - Tenho 22 anos
 - Curso Ciência da Computação na USJT, período noturno.
-- 7º semestre
+- 8º semestre
 - Previsão de conclusão - final de 2026
 
 
