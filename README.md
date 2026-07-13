@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/oEmailou02"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=oEmailou02&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=oEmailou02&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Emilio%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmailou02&langs_count=10&layout=compact&theme=material-palenight"/>
 </div>
  
